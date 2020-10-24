@@ -23,6 +23,7 @@ A Trello clone made using Django Rest Framework, SASS, React, and Redis.
     - Search
         - Autocomplete (Debounced)
     - Unsplash API Integration
+        - Set environment variable REACT_APP_UNSPLASH_API_ACCESS_KEY with access key
     - Automatically adapt header and board title styling based on brightness of board background
 - Notifications
     - When someone assigns you to a card
